@@ -1027,4 +1027,9 @@
     "cmsURL": "http://211.80.208.93/",
     "cmsSys": "zfsoft"
   }
+  {
+    "name": "杭州电子科技大学",
+    "cmsURL": "http://cas.hdu.edu.cn/",
+    "cmsSys": "zfsoft"
+  }
 ]
